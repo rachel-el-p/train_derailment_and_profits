@@ -1,4 +1,4 @@
-# Data Studio Project 4: [Train Derailments and Profits](https://rachel-el-p.github.io/ceocompensation/)
+# Data Studio Project 4: [Train Derailments and Profits](https://rachel-el-p.github.io/train_derailment_and_profits/)
 
 This is my submission for the Data Studio class' fourth assignment.
 
@@ -10,7 +10,7 @@ I also took data on the miles each Class I railroad traveled between 2018 and 20
 
 I used Pandas to do my analysis, and R/Ggplot to make my charts. To make the radar-like chart, I used Rawgraphs' template and modified it in Adobe Illustrator.
 
-The story webpage is here: https://rachel-el-p.github.io/ceocompensation/
+The story webpage is [here.](https://rachel-el-p.github.io/train_derailment_and_profits/)
 
 ## Skills learned: 
 I did much more analysis work with pandas and R/Ggplot.  
